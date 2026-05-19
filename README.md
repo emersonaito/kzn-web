@@ -1,2 +1,6 @@
-# kzn-web
-Official KZN website
+export default {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
